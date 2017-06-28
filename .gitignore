@@ -1,0 +1,4 @@
+*.pyc
+where.data
+where.js
+db.sqlite
